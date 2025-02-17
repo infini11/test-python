@@ -49,7 +49,9 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def link_search_for_drugs(drugs_df: pd.DataFrame, target_search_df: pd.DataFrame, traget_column: str, source: str) -> list[dict]:
+def link_search_for_drugs(drugs_df: pd.DataFrame, 
+                            target_search_df: pd.DataFrame, traget_column: str, 
+                            source: str) -> list[dict]:
     """search link for drugs in pubmed and clinical trials
 
     Args:

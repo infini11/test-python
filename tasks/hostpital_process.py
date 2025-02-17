@@ -4,7 +4,9 @@ import sys, os
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 from utils.helpers import (clean_data, link_search_for_drugs)
 
-def clean_all_data_task(drugs_df: pd.DataFrame, pubmed_df: pd.DataFrame, clinical_df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def clean_all_data_task(
+        drugs_df: pd.DataFrame, pubmed_df: pd.DataFrame, 
+        clinical_df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """clean all dataframe with non appriate date format
 
     Args:
