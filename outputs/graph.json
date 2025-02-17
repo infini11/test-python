@@ -1,0 +1,116 @@
+[
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "source": "pubmed",
+        "date": "2019-01-01"
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "source": "pubmed",
+        "date": "2019-01-01"
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "The Journal of pediatrics",
+        "source": "pubmed",
+        "date": "2019-02-01"
+    },
+    {
+        "drug": "TETRACYCLINE",
+        "journal": "Journal of food protection",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "TETRACYCLINE",
+        "journal": "American journal of veterinary research",
+        "source": "pubmed",
+        "date": "2020-02-01"
+    },
+    {
+        "drug": "TETRACYCLINE",
+        "journal": "Psychopharmacology",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "ETHANOL",
+        "journal": "Psychopharmacology",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "ATROPINE",
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "source": "pubmed",
+        "date": "2020-01-03"
+    },
+    {
+        "drug": "EPINEPHRINE",
+        "journal": "The journal of allergy and clinical immunology. In practice",
+        "source": "pubmed",
+        "date": "2020-01-02"
+    },
+    {
+        "drug": "EPINEPHRINE",
+        "journal": "The journal of allergy and clinical immunology. In practice",
+        "source": "pubmed",
+        "date": "2020-01-03"
+    },
+    {
+        "drug": "ISOPRENALINE",
+        "journal": "Journal of photochemistry and photobiology. B, Biology",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "journal": "Journal of back and musculoskeletal rehabilitation",
+        "source": "pubmed",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "source": "pubmed",
+        "date": "2020-01-03"
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "source": "clinical trials",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "source": "clinical trials",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "source": "clinical trials",
+        "date": "2020-01-01"
+    },
+    {
+        "drug": "EPINEPHRINE",
+        "journal": "Journal of emergency nursing\\xc3\\x28",
+        "source": "clinical trials",
+        "date": "2020-04-27"
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "journal": "Hôpitaux Universitaires de Genève",
+        "source": "clinical trials",
+        "date": "2020-01-01"
+    }
+]
